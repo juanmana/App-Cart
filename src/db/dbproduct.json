@@ -1,0 +1,58 @@
+[
+
+{
+    "id": 1,
+    "name": "helado de chocolate",
+    "image": "img/helado-chocolate.jpg",
+    "extraInfo":"Caja de 6 Unidades",
+     "price": 2.5
+
+
+},
+{
+    "id": 2,
+    "name": "helado de nata",
+    "image": "img/helado-nata.jpg",
+    "extraInfo":"Caja de 3 Unidades",
+     "price": 2.5
+
+
+},
+{
+    "id": 3,
+    "name": "helado de pistacho",
+    "image": "img/helado-pistacho.jpg",
+    "extraInfo":"Caja de 6 Unidades",
+     "price": 2
+
+
+},
+{
+    "id": 4,
+    "name": "helado de limon",
+    "image": "img/helado-limon.jpg",
+    "extraInfo":"Caja de 8 Unidades",
+     "price": 2
+
+
+},
+{
+    "id": 5,
+    "name": "helado de caramelo",
+    "image": "img/helado-caramelo.jpg",
+    "extraInfo":"Caja de 4 Unidades",
+     "price": 1.5
+
+
+},
+{
+    "id": 6,
+    "name": "helado de sandia",
+    "image": "img/helado-sandia.jpg",
+    "extraInfo":"Caja de 5 Unidades",
+     "price": 5.5
+
+
+}
+
+]
